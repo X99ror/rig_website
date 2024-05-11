@@ -13,6 +13,9 @@ function Navbar() {
         <div className={styles.events}>events</div>
         <div className={styles.team}>team</div>
         <div className={styles.contacts}>contacts</div>
+        <div className={styles.login}>
+          <div className={styles.text}>login</div>
+        </div>
       </div>
       <div className={styles.rig}>rig</div>
       <div className={styles.toggle}>

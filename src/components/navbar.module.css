@@ -50,15 +50,23 @@
     color: #000;
     
   }
+  .login{
+    background-color: #2D2B47;
+    color:#fff;
+    width:6vw;
+    height: 3vh;
+    border-radius: 0.2rem;
+    align-content: center;
+  }
+  .text{
+    width:3.3vw;
+    height: 2.5vh;
+
+  }
   .toggle{
     display: none;
   }
-  @media  and (min-width:1120px) {
-    .logo{
-        display:none;
-    }
-    
-  }
+ 
   
   
   
